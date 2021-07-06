@@ -1,7 +1,10 @@
 import React from 'react';
 
 var Synth = () => (
-  <h2>SYNTHS GO</h2>
+  <div>
+    <h2>Volume slider</h2>
+
+  </div>
 );
 
 export default Synth;
